@@ -9,3 +9,5 @@ if __name__ == "__main__":
     file_size = 2.5
     total = calculate_storage(num_files, file_size)
     print(f"Total estimated storage for {num_files} files: {total} GB")
+
+print("meow")
